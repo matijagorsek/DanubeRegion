@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\DunavRegion\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="E:\DunavRegion\app\build\intermediates\pre-dexed\debug\classes-8566a38005d458867ab0ea12c0b673d235646fac.jar" />
+    </item>
+    <item
+        jar="F:\SS\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\DunavRegion\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-0408bd61ad2941b79d49ef186273da394c26089b.jar" />
+    </item>
+    <item
+        jar="E:\DunavRegion\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\DunavRegion\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-7ddacae2b9926bd5a1f959b94cd3e1cb958b74ac.jar" />
+    </item>
+    <item
+        jar="E:\DunavRegion\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\DunavRegion\app\build\intermediates\pre-dexed\debug\classes-8d7256ecdbc8f9fc1f3f716486ae475f014503b0.jar" />
+    </item>
+
+</items>
